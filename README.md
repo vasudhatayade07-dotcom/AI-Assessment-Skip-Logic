@@ -67,3 +67,33 @@ Currently uses **keyword-based matching**:
 ## 🖥️ How to Run the Project
 
 ### Step 1: Clone Repository
+### ### Step 2: Run the Program
+---
+
+## 🧪 Sample Flow
+1. System asks a question
+2. User can:
+   - Type answer
+   - Type `skip`
+3. System evaluates response
+4. Final score is displayed
+
+---
+
+## 🚀 Future Enhancements
+- GPT-based answer evaluation
+- Timer (30 minutes per question)
+- Face detection & cheating monitoring
+- Web-based interface (React + Flask)
+- Admin dashboard with reports
+
+---
+
+## 👩‍💻 Author
+Vasudha Tayade  
+Third Year Computer Engineering Student  
+
+---
+
+## 📌 Conclusion
+This module ensures a **fair, flexible, and intelligent assessment system** by allowing candidates to skip questions without penalty while maintaining accurate evaluation and scoring.
