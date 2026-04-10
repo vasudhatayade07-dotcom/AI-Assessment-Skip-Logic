@@ -1,5 +1,13 @@
 # 🤖 AI Assessment Monitoring System – Skip Question Logic Module
 
+## 📂 Project Structure
+
+AI-Assessment-Skip-Logic/
+│── main.py
+│── README.md
+│── requirements.txt
+│── .gitignore
+
 ## 📌 Project Overview
 This project is a part of the **AI Interview and Assessment Monitoring System**.  
 The Skip Question Logic module ensures that candidates can skip questions during the assessment **without any penalty**, maintaining fairness and flexibility in the evaluation process.
